@@ -1,5 +1,5 @@
 # anubis
-## anubis is another tool that gather subdomains from anubis resource.
+> anubis is another tool that gather subdomains from anubis resource.
 
 ### usage :
 ```
